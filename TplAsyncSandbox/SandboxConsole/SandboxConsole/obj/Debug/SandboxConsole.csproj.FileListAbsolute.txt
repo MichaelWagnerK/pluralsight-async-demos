@@ -1,0 +1,6 @@
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Sandbox\SandboxConsole\SandboxConsole\bin\Debug\SandboxConsole.exe.config
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Sandbox\SandboxConsole\SandboxConsole\bin\Debug\SandboxConsole.exe
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Sandbox\SandboxConsole\SandboxConsole\bin\Debug\SandboxConsole.pdb
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Sandbox\SandboxConsole\SandboxConsole\obj\Debug\SandboxConsole.csprojResolveAssemblyReference.cache
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Sandbox\SandboxConsole\SandboxConsole\obj\Debug\SandboxConsole.exe
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Sandbox\SandboxConsole\SandboxConsole\obj\Debug\SandboxConsole.pdb

@@ -1,0 +1,14 @@
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\bin\Release\AsianOptions.exe.config
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\bin\Release\AsianOptions.exe
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\bin\Release\AsianOptions.pdb
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\bin\Release\Fenestra.dll
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\AsianOptions.csprojResolveAssemblyReference.cache
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\MainWindow.baml
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\MainWindow.g.cs
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\App.g.cs
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\AsianOptions_MarkupCompile.cache
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\AsianOptions.g.resources
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\AsianOptions.Properties.Resources.resources
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\AsianOptions.csproj.GenerateResource.Cache
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\AsianOptions.exe
+C:\GitHub\pluralsight-async-demos\AsianOptions-Seq\AsianOptions\obj\x86\Release\AsianOptions.pdb

@@ -1,0 +1,15 @@
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\bin\Debug\ReliableAndroidApplication.dll
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\bin\Debug\ReliableAndroidApplication.pdb
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\bin\Debug\ReliableAndroidApplication.ReliableAndroidApplication.apk
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\bin\Debug\ReliableAndroidApplication.ReliableAndroidApplication-Signed.apk
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\ReliableAndroidApplication.csprojResolveAssemblyReference.cache
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\ReliableAndroidApplication.dll
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\ReliableAndroidApplication.pdb
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\android\bin\ReliableAndroidApplication.ReliableAndroidApplication.apk
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\res\layout\main.xml
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\res\values\strings.xml
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\res\drawable\icon.png
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\R.cs.flag
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\uploadflags.txt
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\obj\Debug\ReliableAndroidApplication.dll.mdb
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableAndroidApplication\ReliableAndroidApplication\bin\Debug\ReliableAndroidApplication.dll.mdb

@@ -1,0 +1,17 @@
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\bin\Debug\MyLogin.exe.config
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\bin\Debug\MyLogin.exe
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\bin\Debug\MyLogin.pdb
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MyLogin.csprojResolveAssemblyReference.cache
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\UserControls\BusyIndicator.baml
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MainWindow.g.cs
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\UserControls\BusyIndicator.g.cs
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\App.g.cs
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MyLogin_MarkupCompile.cache
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MyLogin_MarkupCompile.lref
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MainWindow.baml
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MyLogin.g.resources
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MyLogin.Properties.Resources.resources
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MyLogin.csproj.GenerateResource.Cache
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MyLogin.exe
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\Demo 1 - Task Parallel Library\MyLogin\MyLogin\obj\Debug\MyLogin.pdb

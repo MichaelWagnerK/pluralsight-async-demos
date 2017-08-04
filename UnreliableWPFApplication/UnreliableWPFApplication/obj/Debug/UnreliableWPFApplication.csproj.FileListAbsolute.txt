@@ -1,0 +1,14 @@
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\bin\Debug\UnreliableWPFApplication.exe.config
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\bin\Debug\UnreliableWPFApplication.exe
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\bin\Debug\UnreliableWPFApplication.pdb
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\UnreliableWPFApplication.csprojResolveAssemblyReference.cache
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\MainWindow.g.cs
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\App.g.cs
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\UnreliableWPFApplication_MarkupCompile.cache
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\UnreliableWPFApplication_MarkupCompile.lref
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\MainWindow.baml
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\UnreliableWPFApplication.g.resources
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\UnreliableWPFApplication.Properties.Resources.resources
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\UnreliableWPFApplication.csproj.GenerateResource.Cache
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\UnreliableWPFApplication.exe
+C:\GitHub\pluralsight-async-demos\getting-started-with-async\UnreliableWPFApplication\UnreliableWPFApplication\obj\Debug\UnreliableWPFApplication.pdb
